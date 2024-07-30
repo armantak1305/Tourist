@@ -39,7 +39,7 @@ class ListPage extends StatelessWidget {
                     children: [
                       Image.asset('asset/Image/risala.jpg',height: 100,width: 100,),
                       SizedBox(
-                        width: 100,
+                        width: 30,
                       ),
                       Center(child: Text('Risala Restaurent',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -71,7 +71,7 @@ class ListPage extends StatelessWidget {
                   children: [
                   Image.asset('asset/Image/plant.jpg',height: 100,width: 100,),
                   SizedBox(
-                  width: 100,
+                  width: 30,
                   ),
                   Center(child: Text('The Plant Story',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -106,7 +106,7 @@ class ListPage extends StatelessWidget {
                   children: [
                   Image.asset('asset/Image/gypsy.png',height: 100,width: 100,),
                   SizedBox(
-                  width: 100,
+                  width: 30,
                   ),
                   Center(child: Text('Gypsy Restaurent',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -140,7 +140,7 @@ class ListPage extends StatelessWidget {
                                       children: [
                                         Image.asset('asset/Image/bar.jpg',height: 100,width: 100,),
                                         SizedBox(
-                                          width: 100,
+                                          width: 30,
                                         ),
                                         Center(child: Text('Tamarind',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 

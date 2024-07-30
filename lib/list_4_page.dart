@@ -39,7 +39,7 @@ class ListPage1 extends StatelessWidget {
                               children: [
                                 Image.asset('asset/Image/blue mall.jpg',height: 100,width: 100,),
                                 SizedBox(
-                                  width: 100,
+                                  width: 30,
                                 ),
                                 Center(child: Text('Blue City Mall',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -71,7 +71,7 @@ class ListPage1 extends StatelessWidget {
                                     children: [
                                       Image.asset('asset/Image/Indiabulls Mega Mall Jodhpur.jpg',height: 100,width: 100,),
                                       SizedBox(
-                                        width: 100,
+                                        width: 30,
                                       ),
                                       Center(child: Text('Indiabulls Mall',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -106,7 +106,7 @@ class ListPage1 extends StatelessWidget {
                                           children: [
                                             Image.asset('asset/Image/ganta ghar.jpg',height: 100,width: 100,),
                                             SizedBox(
-                                              width: 100,
+                                              width: 30,
                                             ),
                                             Center(child: Text('GantaGhar',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -140,7 +140,7 @@ class ListPage1 extends StatelessWidget {
                                     children: [
                                       Image.asset('asset/Image/Umaid-Bhawan-Palace-Market-min.jpg',height: 100,width: 100,),
                                       SizedBox(
-                                        width: 100,
+                                        width: 30,
                                       ),
                                       Center(child: Text('Ummaid Market',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 

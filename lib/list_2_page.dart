@@ -45,7 +45,7 @@ class MainPage extends StatelessWidget {
                       children: [
                         Image.asset('asset/mehran.jpg',height: 100,width: 100,),
                         SizedBox(
-                          width: 100,
+                          width: 30,
                         ),
                         Center(child: Text('Mehrangarh Fort',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -77,7 +77,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/jashwant.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Jashwanth Tada',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -112,7 +112,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/machiya.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Machiya Park',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -147,7 +147,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/kailana.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Kailana lake',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -182,7 +182,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/Clock Tower.webp',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Clock Tower',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -217,7 +217,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/ummaid bhawan.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Ummaid Palace',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -252,7 +252,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/mandore.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Mandore Garden',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -287,7 +287,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/scince.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Science Park',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -322,7 +322,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/masuriya.png',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Masuriya Garden',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -357,7 +357,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/rao.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Rao Jodha Park',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -392,7 +392,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/toorji.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Toorji Ka Jalra',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -427,7 +427,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/surpura.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Surpura Dam',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -462,7 +462,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/balsamand.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Balsamand Lake',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
@@ -497,7 +497,7 @@ class MainPage extends StatelessWidget {
                             children: [
                               Image.asset('asset/Image/osian.jpg',height: 100,width: 100,),
                               SizedBox(
-                                width: 100,
+                                width: 30,
                               ),
                               Center(child: Text('Osian',style: mTextStyle25(mFontWeight: FontWeight.bold,),)),
 
