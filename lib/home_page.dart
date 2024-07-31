@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
           Stack(
           children: [
             Container(
-              child: Image.asset('asset/j.jpg',height:double.maxFinite,width:double.infinity,fit: BoxFit.cover,) ,
+              child: Image.asset('asset/j.jpg',height:double.infinity,width:double.infinity,fit: BoxFit.fitWidth,) ,
             ),
             Align(
               alignment: Alignment.bottomCenter ,
